@@ -1,0 +1,48 @@
+
+      div {
+        margin-bottom: 20px;
+      }
+      .red-square {
+        width: 100px;
+        height: 100px;
+        background-color: red;
+        
+      }
+      .green-circle {
+        width: 100px;
+        height: 100px;
+        background-color: rgb(12, 159, 27);
+        border-radius: 50px;
+      }
+      .satisfaction {
+        width: 300px;
+        height: 100px;
+        border-style: solid;
+        border-width: 1px;
+        border-color: gray;
+        padding-left: 20px;
+      }
+      .install {
+        width: 280px;
+        height: 100px;
+        border-style: solid;
+        border-width: 1px;
+        border-color: gray;
+        padding-left: 20px;
+        padding-right: 18px;
+        background-color: rgb(27, 26, 26);
+      }
+      .music {
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+        margin-bottom: 7px;
+
+
+      }
+      .add {
+        color: gray;
+        font-size: 13px;
+
+      }
+  

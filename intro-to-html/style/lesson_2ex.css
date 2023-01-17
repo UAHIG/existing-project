@@ -1,0 +1,122 @@
+
+  .request-button {
+    background-color: black;
+    color: white;
+    width: 115px;
+    height: 40px;
+    border: none;
+    font-weight: lighter;
+    font-size: 12px;
+    margin-right: 50px;
+    cursor: pointer;
+  }
+
+  .add-button {
+    background-color: rgb(255, 216, 20);
+    border: none;
+    width: 180px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 14px;
+    margin-right: 50px;
+    cursor: cell;
+  }
+ 
+  .sign-button {
+    background-color: rgb(46, 164, 79);
+    border: none;
+    width: 100px;
+    height: 40px;
+    color: white;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 30px;
+    cursor: crosshair;
+  }
+
+  .get-button {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    width: 115px;
+    height: 40px;
+    border-radius: 3px;
+    border: none;
+    margin-right: 5px;
+    cursor: copy;
+  }
+  
+  .download {
+    color: rgb(108, 117, 125);
+    background-color: white;
+    border: 1px;
+    border-radius: 3px;
+    border-color: rgb(108, 117, 125);
+    border-style: solid;
+    width: 110px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 12px;
+    margin-right: 35px;
+    cursor: alias;
+  }
+
+  .apply {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-right: 15px;
+    cursor: cell;
+  }
+
+  .save {
+    color: rgb(10, 102, 194);
+    background-color: white;
+    border: 1px;
+    border-radius: 20px;
+    border-color: rgb(10, 102, 194);
+    border-style: solid;
+    width: 85px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: all-scroll;
+    margin-bottom: 70px;
+  }
+  .link {
+    color: rgb(0, 113, 133);
+  }
+  
+  .title {
+    font-size: 23px;
+    font-weight: bold;
+  }
+
+  .price {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+  }
+
+  .yellow {
+    border: none;
+    background-color: rgb(255, 216, 20);
+    width: 120px;
+    height: 30px;
+    border-radius: 15px;
+    margin-right: 10px;
+  }
+
+  .orange {
+    border: none;
+    background-color: rgb(255, 164, 28);
+    width: 120px;
+    height: 30px;
+    border-radius: 15px;
+    margin-right: 10px;
+  }
+

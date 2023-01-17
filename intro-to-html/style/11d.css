@@ -1,0 +1,100 @@
+p {
+  font-family: Roboto, Arial;
+}
+
+.one-cat-box {
+  width: 150px;
+  height: 260px;
+  border: none;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+  border-radius: 4px;
+  margin-left: 10px;
+  
+}
+
+
+.thumbnail {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;  
+}
+
+.name {
+font-weight: bold;
+font-size: 14px;
+margin-top: 8px;
+margin-bottom: 4px;
+margin-left: 10px;
+}
+
+.friends {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  margin-left: 10px;
+  color: gray;
+  font-size: 12px;
+}
+
+.add-button {
+  margin-top: 4px;
+  color: white;
+  font-size: 11px;
+  background-color: rgb(23, 139, 248);
+  border: none;
+  border-radius: 2px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.add-button:hover {
+  background-color:rgb(244, 106, 21);
+  color: white;
+}
+
+.add-button:active {
+  color: black;
+  background-color: rgb(91, 179, 59);
+}
+
+.profile-line-friends-row {
+width: 150px;
+}
+
+
+
+.profile-line-friends-grid {
+  display: grid;
+  grid-template-columns: 40px 1fr;
+
+}
+
+.profile-picture {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 15px;
+   
+}
+
+.small-pic-box {
+  display: inline-block;
+  width: 30px;
+  margin-left: 5px;
+  vertical-align: middle;
+}
+
+.small-friend-box {
+  display: inline-block;
+  width: 100px;
+}
+
+
+.Three-cat-box-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 20px;
+}

@@ -1,0 +1,29 @@
+input {
+  display: block;
+  width: 240px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 14px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(156, 156, 156);
+}
+.name-bar {
+  display: inline;
+  width: 111px;       
+}
+button {
+  color: white;
+  font-weight: bold;
+  width: 254px;
+  background-color: rgb(18, 143, 232);
+  border: none;
+  border-radius: 5px;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  padding-left: 12px;
+  font-size: 15px;
+}
